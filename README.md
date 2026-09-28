@@ -1,2 +1,4 @@
 # prerna-demo
-my first repository
+My first git repository.
+<br>
+Author-Prerna
